@@ -8,4 +8,4 @@
 -->
 
 ### Ferramentas que usei até aqui
-<img src= "[https://www.stickerking.com.br/1e5001/logo-java-icon](https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png)" width="50px">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Java_logo_2022.jpg/640px-Java_logo_2022.jpg" width="50px">
