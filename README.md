@@ -8,4 +8,4 @@
 -->
 
 ### Ferramentas que usei até aqui
-<img src= "https://s2.glbimg.com/q-0B1SbZWYgxxnLwsf6dbXgivj4=/696x390/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/P/f/y52r4ySZWLkJjEhKLhgw/2014-11-14-java-logo.jpg" width="50px">
+<img src= "https://www.eadplus.com.br/wp-content//uploads/2015/08/wjava.jpg" width="50px">
