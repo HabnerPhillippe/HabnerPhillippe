@@ -14,8 +14,7 @@
 ### Estou aprendendo
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg " width="50px">  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg " width="50px"> 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&theme=dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&amp;layout=compact&amp;langs count=7&amp;theme=dracula) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&amp;layout=compact&amp;langs count=7&amp;show_icons=true&theme=dracula)
 
 ### Contatos 
 <a href="https://wa.me/5521981842757" target="_blank">
