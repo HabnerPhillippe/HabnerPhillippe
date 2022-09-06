@@ -14,7 +14,7 @@
 ### Estou aprendendo
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg " width="50px">  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg " width="50px"> 
 
-![Top Langs](https://camo.githubusercontent.com/d87868155fafa4d…e67735f636f756e743d37267468656d653d64726163756c61)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&theme=dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&show_icons=true&theme=dark)
 
 ### Contatos 
