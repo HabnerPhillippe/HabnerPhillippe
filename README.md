@@ -17,13 +17,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippee=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabnerPhillippee&show_icons=true&theme=radical)
 
 ### Contatos 
 <a href="https://wa.me/5521981842757" target="_blank">
