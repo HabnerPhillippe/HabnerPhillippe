@@ -1,4 +1,4 @@
-<h1 align="left"> Olá, me chamo Habner Phillippe! </h1>
+<h1 align="left"> Olá, me chamo Habner Phillippe!
 
 <h1 align="left"> Bem vindo ao meu perfil GitHub 👋 </h1>
 
@@ -7,7 +7,6 @@
 - 👩‍💻 Estou aprendendo Java no momento ...
 - 😄 Pronouns: Ele/Dele.
 - ⚡ Fun fact: ...
--->
 
 ### Ferramentas e tecnologia
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="50px">  
