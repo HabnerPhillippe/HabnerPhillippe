@@ -37,5 +37,9 @@
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
   
-  ![Snake animation](https://github.com/HabnerPhillippe/blob/output/github-contribution-grid-snake.svg)
+ 
+ HabnerPhillippe: ${{ github.repository_owner }}
+  dist/github-snake.svg
+  dist/github-snake-dark.svg?palette=github-dark
+  dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
   
