@@ -1,6 +1,6 @@
 <h1 align="left"> Olá, me chamo Habner Phillippe! </h1>
 
-<h1 align="center"> Bem vindo ao meu perfil GitHub 👋 </h1>
+<h1 align="left"> Bem vindo ao meu perfil GitHub 👋 </h1>
 
 - 💻 Atualmente não estou trabalhando.
 - 📚 Sou residente do Programa Serratec em parceria com Firjan/Senai.
@@ -16,7 +16,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg " width="50px">  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg " width="50px">  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&layout=compact)](https://github.com/HabnerPhillippe/github-readme-stats) >
+<h1 align="left"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&layout=compact)](https://github.com/HabnerPhillippe/github-readme-stats) </h1>
+
 
 
 
