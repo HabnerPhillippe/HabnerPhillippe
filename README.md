@@ -1,4 +1,4 @@
-<h1 align="left"> Olá, me chamo Habner Phillippe!
+<h1 align="left"> Olá, me chamo Habner Phillippe! </h1>
 
 <h1 align="left"> Bem vindo ao meu perfil GitHub 👋 </h1>
 
