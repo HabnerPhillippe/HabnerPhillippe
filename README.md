@@ -1,6 +1,6 @@
-Olá, me chamo Habner Phillippe!
-<h1 align="left"> Sou Residente em TIC Software pelo Serratec 🚀🚀 </h1>
-<h1 align="left"> Bem vindo ao meu perfil GitHub 👋 </h1>
+<h1 align="left"> Olá, me chamo Habner Phillippe! 🧑‍💻  </h1>
+<h1 align="left"> Sou Residente em TIC Software pelo Serratec 🚀 </h1>
+<h1 align="left"> Bem vindo ao meu perfil GitHub 🤙 </h1>
 
 - 💻 Atualmente não estou trabalhando.
 - 📚 Sou residente do Programa Serratec em parceria com Firjan/Senai.
