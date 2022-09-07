@@ -19,7 +19,7 @@
 ### 📊 My Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&show_icons=true&theme=dracula) ![Top Langes](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&show_icons=true&theme=dracula)
 
-## Contatos 
+### Contatos 
 <a href="https://wa.me/5521981842757" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
@@ -38,7 +38,8 @@
 
  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hp.marinha@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
+</a>
+## 
  
  ## 🐍
  ![snake gif](https://github.com/HabnerPhillippe/HabnerPhillippe/blob/output/github-contribution-grid-snake.gif)
