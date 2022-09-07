@@ -38,6 +38,6 @@
 </a>
   
  
- ## Snake eating my contribuition graph
+ ## 🐍
  ![snake gif](https://github.com/HabnerPhillippe/HabnerPhillippe/blob/output/github-contribution-grid-snake.gif)
   
