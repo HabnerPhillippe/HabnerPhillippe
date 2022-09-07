@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="200px">
+<img src="https://pbs.twimg.com/media/FOOeplVX0AEa7Zq?format=svg&name=small" width="200px">
 
 <h1 align="left"> Olá, me chamo Habner Phillippe! </h1>
 
