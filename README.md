@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hp.marinha@gmail.com" target="_blank">
+##<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hp.marinha@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> ##
+</a> 
  
  ## 🐍
  ![snake gif](https://github.com/HabnerPhillippe/HabnerPhillippe/blob/output/github-contribution-grid-snake.gif)
