@@ -1,6 +1,6 @@
 <h1 align="left"> Olá, me chamo Habner Phillippe! 🧑‍💻  </h1>
 <h1 align="left"> Residente em TIC Software pelo Serratec 🚀 </h1>
-<h1 align="left"> Bem vindo ao meu perfil GitHub 🤙 </h1>
+<h1 align="left"> Bem-vindo ao meu perfil GitHub 🤙 </h1>
 
 - 💻 Atualmente não estou trabalhando.
 - 📚 Sou estudante no Programa Serratec em parceria com Firjan/Senai.
@@ -27,7 +27,7 @@
   ##
 
 ### Contatos 
-<div align="center" style="display: inline-block">  
+<div align="left" style="display: inline-block">  
   
  <a href="https://wa.me/5521981842757" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
