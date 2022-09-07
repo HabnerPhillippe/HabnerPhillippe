@@ -1,4 +1,4 @@
-![Meu projeto](https://user-images.githubusercontent.com/110646680/188789202-4de50b2c-ad8f-4532-9678-1d286b6de514.jpg)
+
 
 
 <h1 align="left"> Olá, me chamo Habner Phillippe! </h1>
