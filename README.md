@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="left"> Olá, me chamo Habner Phillippe! </h1>
 
 <h1 align="left"> Bem vindo ao meu perfil GitHub 👋 </h1>
@@ -25,7 +21,7 @@
 ## 
 
 ### Contatos 
-<a href="https://wa.me/5521981842757" target="_blank">
+<a <align="center"> href="https://wa.me/5521981842757" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
