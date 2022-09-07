@@ -26,7 +26,7 @@
   
   ##
 
-### Contatos 
+### Contatos e links
 <div align="left" style="display: inline-block">  
   
  <a href="https://wa.me/5521981842757" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
@@ -39,6 +39,10 @@
 
  <a href="mailto:hp.marinha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
+  <a href="https://open.spotify.com/playlist/7i40tU1gn1VvzeFYV7IIWk?si=60bf1dd87b3e4ae5" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+  
+  
+  
  ## 🐍
  ![snake animation](https://github.com/HabnerPhillippe/HabnerPhillippe/blob/output/github-contribution-grid-snake.svg)
   
