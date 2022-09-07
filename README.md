@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/FOOeplVX0AEa7Zq?format=jpg&name=small" width="200px">
+
 
 <h1 align="left"> Olá, me chamo Habner Phillippe! </h1>
 
