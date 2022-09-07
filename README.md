@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-<a  href="https://www.instagram.com/https://www.instagram.com/phillippe_no_bne/" alt="Instagram" target="_blank">
+<a  href="https://www.instagram.com/phillippe_no_bne/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME">
 </a>
 
