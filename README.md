@@ -8,15 +8,15 @@
 - 😄 Pronouns: Ele/Dele.
 - ⚡ Fun fact: ...
 
-### Ferramentas e tecnologia
+## Ferramentas e tecnologia
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="50px">  
 
-### Estou aprendendo
+## Estou aprendendo
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg " width="50px">  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg " width="50px"> 
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&show_icons=true&theme=dracula) ![Top Langes](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&show_icons=true&theme=dracula)
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&show_icons=true&theme=dracula) ![Top Langes](https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&show_icons=true&theme=dracula)
 
-### Contatos 
+## Contatos 
 <a href="https://wa.me/5521981842757" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-## <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hp.marinha@gmail.com" target="_blank">
+ <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hp.marinha@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
  
