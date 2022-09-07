@@ -40,5 +40,5 @@
  <a href="mailto:hp.marinha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
  ## 🐍
- ![snake gif](https://github.com/HabnerPhillippe/HabnerPhillippe/blob/output/github-contribution-grid-snake.gif)
+ ![snake animation](https://github.com/HabnerPhillippe/HabnerPhillippe/blob/output/github-contribution-grid-snake.svg)
   
