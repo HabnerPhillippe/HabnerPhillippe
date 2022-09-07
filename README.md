@@ -20,13 +20,16 @@
 
 <div align="center">
   <a href="https://github.com/HabnerPhillippe">
-  <img height="150em" src="https://github-readmestats.vercel.app/apiusername=HabnerPhillippe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&layout=compact&langs_count=7&theme= merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HabnerPhillippe-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="HabnerPhillippe-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Kifel-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  
+          
+</div>
   
   ##
 
