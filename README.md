@@ -5,7 +5,7 @@
 - 💻 Atualmente não estou trabalhando.
 - 📚 Sou estudante no Programa Serratec em parceria com Firjan/Senai.
 - 👩‍💻 Estou aprendendo Java no momento ...
-- 😄 Pronouns: Ele/Dele.
+- 😄 Pronomes: Ele/Dele.
 - ⚡ Fun fact: ...
 
 ### Ferramentas e tecnologia
