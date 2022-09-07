@@ -40,9 +40,9 @@
  <a href="mailto:hp.marinha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
   <a href="https://open.spotify.com/playlist/7i40tU1gn1VvzeFYV7IIWk?si=60bf1dd87b3e4ae5" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+
   
-  
-  
- ## 🐍
+##  
+ 🐍
  ![snake animation](https://github.com/HabnerPhillippe/HabnerPhillippe/blob/output/github-contribution-grid-snake.svg)
   
