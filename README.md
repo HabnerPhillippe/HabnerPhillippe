@@ -1,5 +1,5 @@
-<h1 align="left"> Olá, me chamo Habner Phillippe! 🧑‍💻 </h1>
-<h2 align="left"> Residente em TIC Software pelo Serratec 🚀 </h2>
+<h1 align="center"> Olá, me chamo Habner Phillippe! 🧑‍💻<h1> 
+<h1 align="left"> Residente em TIC Software pelo Serratec 🚀 </h1>
 
 ![pixel7](https://user-images.githubusercontent.com/110646680/189279596-381c9af0-47ca-45c3-a25d-e40bbf258fa2.gif)
 
