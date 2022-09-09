@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, me chamo Habner Phillippe! 🧑‍💻 
+<h1 align="center"> Olá, me chamo Habner Phillippe! 👨‍💻
 <h1 align="center"> Residente em TIC Software pelo Serratec 🚀 
 
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/110646680/189279596-381c9af0-47ca-45c3-a25d-e40bbf258fa2.gif" width="800px">
@@ -6,9 +6,9 @@
 
 <h1 align="left"> Bem-vindo ao meu perfil GitHub 🤙 </h1>
 
-- 💻 Atualmente não estou trabalhando.
+- 🕹 Atualmente não estou trabalhando.
 - 📚 Sou estudante no Programa Serratec em parceria com Firjan/Senai.
-- 👩‍💻 Estou aprendendo Java no momento ...
+- 💻 Estou aprendendo Java no momento ...
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fun fact: ...
 
