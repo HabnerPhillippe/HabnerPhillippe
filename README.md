@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, me chamo Habner Phillippe! 🧑‍💻 
 <h1 align="center"> Residente em TIC Software pelo Serratec 🚀 
 
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/110646680/189279596-381c9af0-47ca-45c3-a25d-e40bbf258fa2.gif" width="500px">
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/110646680/189279596-381c9af0-47ca-45c3-a25d-e40bbf258fa2.gif" width="800px">
 
 
 <h1 align="left"> Bem-vindo ao meu perfil GitHub 🤙 </h1>
