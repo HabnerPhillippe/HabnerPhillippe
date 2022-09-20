@@ -8,14 +8,14 @@
 
 - 🕹 Atualmente não estou trabalhando.
 - 📚 Sou estudante no Programa Serratec em parceria com Firjan/Senai.
-- 💻 Estou aprendendo Java no momento ...
+- 💻 Estou aprendendo Frontend Essencial no momento ...
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fun fact: ...
 
-### Ferramentas e tecnologia que dei uma passada
+### Ferramentas e tecnologia que dei uma olhada
 <img src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg " width="50px">
 
-### Estou aprendendo
+### O que estou aprendendo
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50px"> 
 
 ##
