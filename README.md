@@ -18,6 +18,8 @@
   
 ### O que estou aprendendo
 <img src="https://user-images.githubusercontent.com/110646680/193735017-1a0ed05b-087b-4f9e-8cf9-ed282fa473b7.png" width="50px">
+<img src="https://user-images.githubusercontent.com/110646680/193735528-03d28101-c16a-4e5d-b804-610daafc59d8.png" width="50px">
+<img src="https://user-images.githubusercontent.com/110646680/193735508-818ac1d4-6b39-4c57-b8b5-1d01ff7d4196.png" width="50px">
 
 
 ##
