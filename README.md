@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50px"> 
   
 ### O que estou aprendendo
-![postman-icon]("https://user-images.githubusercontent.com/110646680/193735017-1a0ed05b-087b-4f9e-8cf9-ed282fa473b7.png" widht="50px")
+![postman-icon](https://user-images.githubusercontent.com/110646680/193735017-1a0ed05b-087b-4f9e-8cf9-ed282fa473b7.png widht="50px")
 
 
 ##
