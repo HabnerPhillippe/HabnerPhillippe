@@ -24,12 +24,9 @@
  <a href="https://wa.me/5521981842757" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
 <a  href="https://www.instagram.com/phillippe_no_bne/" alt="Instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME"></a>
-
-<a href="https://twitter.com/Habninho_O" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   
  <a href="https://www.linkedin.com/in/habner-phillippe-432570240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
- <a href="mailto:hp.marinha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
   <a href="https://open.spotify.com/playlist/7i40tU1gn1VvzeFYV7IIWk?si=60bf1dd87b3e4ae5" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 
