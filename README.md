@@ -18,16 +18,6 @@
 
 ##
 
-### 📊 My Github Stats
-
-<div align="center">
-  <a href="https://github.com/HabnerPhillippe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HabnerPhillippe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabnerPhillippe&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-  ##
-
 ### Contatos e links
 <div align="left" style="display: inline-block">  
   
