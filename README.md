@@ -6,9 +6,8 @@
 
 <h1 align="left"> Bem-vindo ao meu perfil GitHub 🤙 </h1>
 
-- 🕹 Atualmente não estou trabalhando.
-- 📚 Sou estudante no Programa Serratec em parceria com Firjan/Senai.
-- 💻 Estou aprendendo ReactNative no momento ...
+- 🕹 Atualmente estou trabalhando na Markway
+- 📚 Sou QA Tester e ELK Developer.
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fun fact: ...
 
