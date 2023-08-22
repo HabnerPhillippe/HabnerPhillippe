@@ -14,8 +14,6 @@
 ### Ferramentas e tecnologia que dei uma olhada
 <img src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="50px"> <img src="https://user-images.githubusercontent.com/110646680/193735932-9edec0e4-3cb0-4953-9ae5-b64e3ce337f6.png" width="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50px"> 
-  
-### O que estou aprendendo
 <img src="https://user-images.githubusercontent.com/110646680/193735017-1a0ed05b-087b-4f9e-8cf9-ed282fa473b7.png" width="50px"> <img src="https://user-images.githubusercontent.com/110646680/193735528-03d28101-c16a-4e5d-b804-610daafc59d8.png" width="50px"> <img src="https://user-images.githubusercontent.com/110646680/193735508-818ac1d4-6b39-4c57-b8b5-1d01ff7d4196.png" width="50px">
 
 ##
